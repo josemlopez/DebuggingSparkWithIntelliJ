@@ -1,4 +1,4 @@
-# DebugingSparkIntelliJ
+# Debugging Spark with IntelliJ
 
 PreRequisite: 
 You have assembled your code with all the dependencies into the same jar.
